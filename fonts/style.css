@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Alington;
+    src: url(/fonts/Alington.otf);
+}
+
+h1 {
+    font-family: Alington;
+}
